@@ -1,8 +1,8 @@
 # System Manager
 
 # Create Role with below policies:
-	  -	AWSConfigUserAccess
-	  -	AmazonSSMFullAccess
+    - AWSConfigUserAccess
+    - AmazonSSMFullAccess
 # Attach SSM role with EC2 Instance
 # Do AWS configure in local for providing region
     aws configure
