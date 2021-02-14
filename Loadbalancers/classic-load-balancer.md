@@ -53,6 +53,8 @@
   Ping DNS one more time and check
   
   ![image](https://user-images.githubusercontent.com/58024415/107868655-1e7ef880-6eac-11eb-9b7c-4ffb079e0853.png)
+# Create Hosted zone with certificate
+  [Hosted Zone](https://github.com/Naresh240/Hosted-Zone/blob/main/README.md)
 # Check output with DNS name
   https://httpd.awstraining9pm.tk/
   
