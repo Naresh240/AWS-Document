@@ -39,4 +39,42 @@
 
   Click on Create
   
+  ![image](https://user-images.githubusercontent.com/58024415/107869319-ec24c980-6eb2-11eb-8f1a-d04587a6c2a8.png)
+
+  Click on Create Security Settings
+  Click on Configure Security Groups
   
+  ![image](https://user-images.githubusercontent.com/58024415/107869363-5473ab00-6eb3-11eb-8181-d1e28b092ae1.png)
+
+  Click on Configure Routing
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869371-67867b00-6eb3-11eb-9b15-f43ba457e3b9.png)
+
+  Click on Next: Register Targets
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869396-900e7500-6eb3-11eb-81c2-32349b648277.png)
+
+  Click on Review
+  Click on Create
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869452-32c6f380-6eb4-11eb-9fed-d60246887901.png)
+
+  Click on Add Listeners
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869468-791c5280-6eb4-11eb-8784-ba703eef9656.png)
+
+  Click on Add listener
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869486-9a7d3e80-6eb4-11eb-9476-36dcb84e98d9.png)
+ 
+# Check output of ALB using DNS name  
+  ![image](https://user-images.githubusercontent.com/58024415/107869494-c3053880-6eb4-11eb-8c20-5c212b94d2f1.png)
+  
+  Copy DNS name and check in UI:
+  With port '80'
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869499-dfa17080-6eb4-11eb-9e1b-f744f3647b26.png)
+  
+  With port '8080'
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869501-e92ad880-6eb4-11eb-9d38-8d2654a3f6c8.png)
