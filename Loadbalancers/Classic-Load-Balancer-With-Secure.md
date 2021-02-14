@@ -1,6 +1,4 @@
-  ![image](https://user-images.githubusercontent.com/58024415/107868472-9fd58b80-6eaa-11eb-891d-53412f3d221e.png)
-
-  Click on Create# Classic Load Balancer With Secure Using ACM
+# Classic Load Balancer With Secure Using ACM
 
 # pre-Requisites
     Install httpd on two servers with different content of index.html
@@ -62,7 +60,15 @@
   Ping DNS one more time and check
   
   ![image](https://user-images.githubusercontent.com/58024415/107871649-97407d80-6ec9-11eb-967d-48b106ce4732.png)
+# Create Hosted zone with certificate
+  [Hosted Zone](https://github.com/Naresh240/Hosted-Zone/blob/main/README.md)  
 # Add Record in Hosted Zone with "httpd.awstraining9pm.tk"
   ![image](https://user-images.githubusercontent.com/58024415/107871729-3d8c8300-6eca-11eb-997c-38d38cfed8e6.png)
-# Check output of DNS name
-
+# Check output with DNS name
+  https://httpd.awstraining9pm.tk/
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107871963-585ff700-6ecc-11eb-9a1c-19311c808d2d.png)
+  
+  Refresh UI once and check
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107871965-5dbd4180-6ecc-11eb-93f7-4bc9eb931a20.png)
