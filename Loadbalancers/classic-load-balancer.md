@@ -53,11 +53,3 @@
   Ping DNS one more time and check
   
   ![image](https://user-images.githubusercontent.com/58024415/107868655-1e7ef880-6eac-11eb-9b7c-4ffb079e0853.png)
-# Check output with DNS name
-  https://httpd.awstraining9pm.tk/
-  
-  ![image](https://user-images.githubusercontent.com/58024415/107871963-585ff700-6ecc-11eb-9a1c-19311c808d2d.png)
-  
-  Refresh UI once and check
-  
-  ![image](https://user-images.githubusercontent.com/58024415/107871965-5dbd4180-6ecc-11eb-93f7-4bc9eb931a20.png)
