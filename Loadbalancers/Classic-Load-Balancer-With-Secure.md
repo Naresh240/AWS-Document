@@ -46,4 +46,23 @@
   Click on "Review and Create"
   Click on "Create"
   
+  ![image](https://user-images.githubusercontent.com/58024415/107871625-4a5ca700-6ec9-11eb-8740-12f3b3eb8bbc.png)
+
+  Status of both servers showing OutOfService, need to wait until both the servers come to InService.
   
+  ![image](https://user-images.githubusercontent.com/58024415/107871636-7841eb80-6ec9-11eb-9f67-cf2ca7bb9e4e.png)
+
+# Check output of Loadbalancer with DNS name
+  ![image](https://user-images.githubusercontent.com/58024415/107871674-c48d2b80-6ec9-11eb-9ea7-40e3b3eb64e6.png)
+  
+  Give DNS name in UI and check 
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107871647-91e33300-6ec9-11eb-8827-e191fc891f8c.png)
+  
+  Ping DNS one more time and check
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107871649-97407d80-6ec9-11eb-967d-48b106ce4732.png)
+# Add Record in Hosted Zone with "httpd.awstraining9pm.tk"
+  ![image](https://user-images.githubusercontent.com/58024415/107871729-3d8c8300-6eca-11eb-997c-38d38cfed8e6.png)
+# Check output of DNS name
+
