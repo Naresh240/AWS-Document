@@ -40,3 +40,16 @@
   ![image](https://user-images.githubusercontent.com/58024415/107868586-808b2e00-6eab-11eb-8175-10148a67f9a3.png)
 
   Status of both servers showing OutOfService, need to wait until both the servers come to InService.
+
+  ![image](https://user-images.githubusercontent.com/58024415/107868615-d233b880-6eab-11eb-8629-a01678c5a378.png)
+
+# Check output of Loadbalancer with DNS name
+  ![image](https://user-images.githubusercontent.com/58024415/107868639-05764780-6eac-11eb-9bdf-663fc0e4d518.png)
+ 
+  Give DNS name in UI and check 
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107868649-158e2700-6eac-11eb-96d8-da30b14f46a6.png)
+  
+  Ping DNS one more time and check
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107868655-1e7ef880-6eac-11eb-9b7c-4ffb079e0853.png)
