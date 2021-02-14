@@ -69,4 +69,13 @@
   ![image](https://user-images.githubusercontent.com/58024415/107869928-c51dc600-6eb9-11eb-8fc2-bd3aa1005581.png)
 
 # Check output of Load Balancer
+  ![image](https://user-images.githubusercontent.com/58024415/107869948-f1d1dd80-6eb9-11eb-8d4c-66e7af54bedd.png)
+
+  Copy DNS name and check--> with port '80'
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869986-6f95e900-6eba-11eb-9a21-e9599704acb0.png)
+  
+  with port '8080'
+  
+  ![image](https://user-images.githubusercontent.com/58024415/107869988-77ee2400-6eba-11eb-8362-dcf5cd63bf05.png)
   
